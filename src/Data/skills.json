@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Software Development (Java and Python)",
+    "description": "Proficient in object-oriented programming using Java and Python, with a focus on building robust, scalable, and efficient applications. Skilled in writing clean, maintainable code, debugging complex issues, and leveraging frameworks and libraries to accelerate development across various domains."
+  },
+  {
+    "id": 2,
+    "title": "Web Development (HTML, CSS, JavaScript, PHP)",
+    "description": "Experienced in creating responsive, user-friendly websites and web applications using modern front-end technologies like HTML, CSS, and JavaScript, combined with back-end development using PHP. Capable of building dynamic, database-driven interfaces that ensure seamless user experiences."
+  },
+  {
+    "id": 3,
+    "title": "Networking & Internet Services",
+    "description": "Knowledgeable in computer networking fundamentals, including network configuration, troubleshooting, and management of internet services. Skilled in ensuring network reliability, security, and performance, as well as providing technical support and connectivity solutions."
+  },
+  {
+    "id": 4,
+    "title": "Microsoft Office Suite (Word, Excel, PowerPoint)",
+    "description": "Advanced proficiency in Microsoft Office applications, enabling the creation of professional documents, data analysis using spreadsheets, and dynamic presentations. Competent in automating tasks, applying formulas, and integrating content to boost productivity and business communication."
+  },
+  {
+    "id": 5,
+    "title": "Database Management (SQL and Microsoft Access)",
+    "description": "Experienced in designing, querying, and managing relational databases using Structured Query Language (SQL) and Microsoft Access. Skilled in data modeling, writing complex queries, generating reports, and ensuring data integrity for efficient information retrieval and analysis."
+  },
+  {
+    "id": 6,
+    "title": "Computer Troubleshooting & Maintenance",
+    "description": "Skilled in diagnosing, troubleshooting, and resolving hardware and software issues on desktops, laptops, and peripherals. Proficient in performing preventive maintenance, system upgrades, and repairs to ensure optimal performance and minimal downtime for users."
+  }
+]
